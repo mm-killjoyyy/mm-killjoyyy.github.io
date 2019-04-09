@@ -59,7 +59,7 @@ portfolio entries */
       text-align: center;
       margin-top: 5%;
       z-index: 1;
-      width: 100%;
+      width: 70%;
     }
 
     #faceid2 {
@@ -67,7 +67,7 @@ portfolio entries */
       text-align: center;
       margin-top: 5%;
       z-index: 1;
-      width: 100%;
+      width: 70%;
     }
 
     #loading {
@@ -75,7 +75,7 @@ portfolio entries */
       text-align: center;
       margin-top: 5.5%;
       z-index: 2;
-      width: 100%;
+      width:70%;
     }
 
     #verified {
@@ -83,5 +83,5 @@ portfolio entries */
       text-align: center;
       margin-top: 5%;
       z-index: 1;
-      width: 100%;
+      width: 70%;
     }
