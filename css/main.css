@@ -1,3 +1,8 @@
+body, html {
+  height: 100%;
+  width: 100%
+}
+
 body {
   margin: 30px auto;
   max-width: 1000px;
@@ -5,6 +10,8 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 
@@ -44,4 +51,37 @@ portfolio entries */
   /* selected link */
     a:active {
       color: black;
+    }
+
+    /* Monica's style info */
+    #faceid {
+      position: absolute;
+      text-align: center;
+      margin-top: 5%;
+      z-index: 1;
+      width: 100%;
+    }
+
+    #faceid2 {
+      position: absolute;
+      text-align: center;
+      margin-top: 5%;
+      z-index: 1;
+      width: 100%;
+    }
+
+    #loading {
+      position: absolute;
+      text-align: center;
+      margin-top: 5.5%;
+      z-index: 2;
+      width: 100%;
+    }
+
+    #verified {
+      position: absolute;
+      text-align: center;
+      margin-top: 5%;
+      z-index: 1;
+      width: 100%;
     }
