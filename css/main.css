@@ -30,3 +30,18 @@ portfolio entries */
   padding: 40px;
   background-color: white;
 }
+
+/* visited link */
+  a:visited {
+      color: black;
+    }
+
+/* mouse over link */
+  a:hover {
+      color: #D2FF77;
+    }
+
+  /* selected link */
+    a:active {
+      color: black;
+    }
